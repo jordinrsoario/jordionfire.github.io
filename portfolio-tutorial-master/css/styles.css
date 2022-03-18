@@ -339,7 +339,7 @@ h1 span{
   border-radius: 20px;
   font-weight: bold;
   cursor: pointer;
-  box-shadow: 1px 1px 7px 2px rgba(102, 231,100, 70)
+  box-shadow: 1px 1px 7px 1px rgba(0, 255, 255, 0.562)
 
 }
 .btn-submit:hover{
@@ -432,7 +432,7 @@ h1 span{
   border: none;
   border-radius:40mm;
   cursor: pointer;
-  box-shadow: 1px 1px 7px 2px rgba(102, 231,100, 70)
+  box-shadow: 1px 1px 7px 1px rgba(0, 255, 255, 0.568)
 }
 #Acerca_de_mi{
   background-color: #191c32;
